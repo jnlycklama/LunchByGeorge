@@ -1,0 +1,33 @@
+#header-img {
+  width: 10%;
+  margin-left: auto;
+  margin-right: auto;
+} 
+
+.jumbotron {
+  background-color: #78bbdc;
+  text-align: center;
+  padding: 1%;
+}
+.jumbotron img {
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row img {
+	width: 50%;
+}
+@media (min-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
+
+

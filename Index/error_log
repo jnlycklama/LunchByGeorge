@@ -1,0 +1,108 @@
+[31-Jan-2015 17:05:05 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/index1.php on line 3
+[31-Jan-2015 17:05:05 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/index1.php on line 3
+[31-Jan-2015 17:05:05 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/index1.php on line 3
+[31-Jan-2015 17:06:07 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/index1.php on line 3
+[31-Jan-2015 17:06:07 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/index1.php on line 3
+[31-Jan-2015 17:06:07 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/index1.php on line 3
+[31-Jan-2015 17:08:22 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/index1.php on line 3
+[31-Jan-2015 17:08:22 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/index1.php on line 3
+[31-Jan-2015 17:08:22 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/index1.php on line 3
+[31-Jan-2015 17:09:54 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/index1.php on line 4
+[31-Jan-2015 17:09:54 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/index1.php on line 4
+[31-Jan-2015 17:09:54 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/index1.php on line 4
+[31-Jan-2015 17:10:05 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/index1.php on line 4
+[31-Jan-2015 17:10:05 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/index1.php on line 4
+[31-Jan-2015 17:10:05 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/index1.php on line 4
+[31-Jan-2015 17:10:47 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/index1.php on line 4
+[31-Jan-2015 17:10:47 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/index1.php on line 4
+[31-Jan-2015 17:10:47 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/index1.php on line 4
+[31-Jan-2015 17:10:59 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/index1.php on line 4
+[31-Jan-2015 17:10:59 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/index1.php on line 4
+[31-Jan-2015 17:10:59 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/index1.php on line 4
+[31-Jan-2015 17:18:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/julielyc/public_html/lbg/include.php on line 4
+[31-Jan-2015 17:18:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/julielyc/public_html/lbg/include.php on line 4
+[31-Jan-2015 17:19:54 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/julielyc/public_html/lbg/include.php on line 4
+[31-Jan-2015 18:54:14 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 18:54:14 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 18:54:14 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 19:13:26 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 19:13:26 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 19:13:26 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 19:21:46 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 19:21:46 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 19:21:46 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 19:21:59 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 19:21:59 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 19:21:59 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 19:32:08 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 19:32:08 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 19:32:08 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:16:57 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:16:57 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:16:57 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:19:17 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:19:17 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:19:17 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:23:28 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:23:28 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:23:28 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:24:01 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:24:01 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:24:01 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:24:52 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:24:52 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:24:52 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:26:26 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:26:26 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:26:26 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:26:56 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:26:56 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 20:26:56 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:03:08 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:03:08 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:03:08 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:08:35 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:08:35 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:08:35 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:12:43 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:12:43 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:12:43 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:12:52 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:12:52 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:12:52 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:13:55 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:13:55 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:13:55 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:15:27 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:15:27 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:15:27 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:16:25 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:16:25 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:16:25 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:18:34 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:18:34 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:18:34 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:20:07 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:20:07 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:20:07 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:21:24 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:21:24 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:21:24 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:22:15 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:22:15 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:22:15 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:26:55 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:26:55 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:26:55 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:27:40 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:27:40 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:27:40 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:28:29 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:28:29 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:28:29 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:35:07 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:35:07 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:35:07 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:36:02 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:36:02 UTC] PHP Warning:  include(lbg/include.php): failed to open stream: No such file or directory in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
+[31-Jan-2015 21:36:02 UTC] PHP Warning:  include(): Failed opening 'lbg/include.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/julielyc/public_html/lbg/Index/Contact.php on line 4
